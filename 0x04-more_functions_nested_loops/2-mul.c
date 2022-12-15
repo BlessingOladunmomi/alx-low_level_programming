@@ -4,7 +4,7 @@
  * mul - multiply 2 num
  * @a: first num
  * @b: second num
- * Return: addition of the multiplication
+ * Return: result of the multiplication
  */
 
 int mul(int a, int b)
